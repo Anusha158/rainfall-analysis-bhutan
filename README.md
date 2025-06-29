@@ -16,17 +16,16 @@ This project explores rainfall patterns across Bhutan between 2021 and 2025 to s
 - Plotly, Seaborn, Matplotlib
 - Scikit-learn 
 - Prophet (Time series forecasting)
-
-## 📁 Project Structure
-
+- ## 📁 Project Structure
+<pre lang="markdown"> <code>
 rainfall-analysis-bhutan/
-├── data/ # Raw and cleaned rainfall data
-├── visuals/ # Saved charts and graphs
-├── notebooks/ # Jupyter notebooks for analysis
-├── ├── app.py (optional) # Streamlit dashboard (if used)
-└── README.md # Project overview
+├── data/            
+├── visuals/ 
+├── notebooks/ 
+├── ├── app.py (optional) 
+└── README.md 
 
-
+</code> </pre>
 
 ## 📈 Example Visuals
 
